@@ -1,16 +1,12 @@
-RedDragonCMS - the dynamic open source CMS for ambitious website projects
+Red Dragon Web Engine (RDWE) emerges as a powerful solution in the web development landscape, designed by developers for developers. 
+Created by .:: RedDragonElite ::., RDWE combines the robustness of PHP 8.3+ with modern development practices to deliver a flexible, 
+secure, and performant foundation for your web projects.
 
-RedDragonCMS is a powerful and flexible content management system specifically developed for sophisticated website projects.
+Whether you're building a simple website or a complex web application, RDWE provides the perfect balance of structure and freedom. 
+With built-in support for SEO optimization, IIS compatibility, and MaterializeCSS integration, 
+you get all the tools needed for modern web development without the bloat.
 
-The CMS stands out with its intuitive operation, extensive customization options and high performance. 
-It appeals to both tech-savvy users and creative web enthusiasts.
-
-Thanks to the intuitive admin dashboard, RedDragonCMS can be used quickly and easily even for CMS beginners. 
-At the same time, it offers professionals the flexibility they need for sophisticated websites.
-
-RedDragonCMS is actively developed further. As open source software, it is available free of charge.
-
-More about RedDragonCMS: https://rd-elite.com/RedDragonCMS
+More about Red Dragon Web Engine: https://rd-elite.com/rdwe
 
 MIT License
 
