@@ -1,5 +1,5 @@
 Red Dragon Web Engine (RDWE) emerges as a powerful solution in the web development landscape, designed by developers for developers. 
-Created by .:: RedDragonElite ::., RDWE combines the robustness of PHP 8.3+ with modern development practices to deliver a flexible, 
+Created by .:: RedDragonElite ::., RDWE combines the robustness of PHP 8.4.7+ with modern development practices to deliver a flexible, 
 secure, and performant foundation for your web projects.
 
 Whether you're building a simple website or a complex web application, RDWE provides the perfect balance of structure and freedom. 
@@ -10,7 +10,7 @@ More about Red Dragon Web Engine: https://rd-elite.com/rdwe
 
 MIT License
 
-Copyright (c) [2024] [.:: RedDragonElite ::.] (https://rd-elite.com)
+Copyright (c) [2025] [.:: RedDragonElite ::.] (https://rd-elite.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
